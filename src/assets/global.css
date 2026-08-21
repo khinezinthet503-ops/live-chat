@@ -1,0 +1,26 @@
+body {
+  background-color: aliceblue;
+  color: black;
+}
+.container {
+  width: 90%;
+  max-width: 960px;
+  margin: 80px auto;
+  border-radius: 10px;
+  box-shadow: 2px 4px 6px rgb(28, 6, 49, 0.1);
+  background-color: white;
+}
+.error {
+  color: rgb(218, 39, 39);
+}
+button {
+  padding: 5px 7px;
+  color: aliceblue;
+  background-color: rgb(71, 189, 149);
+  border-radius: 7px;
+  border: 1px solid white;
+  margin-top: 30px;
+  cursor: pointer;
+  font-weight: 600;
+  font-size: medium;
+}
